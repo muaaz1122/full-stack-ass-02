@@ -3,6 +3,7 @@ import AboutSection from '../views/AboutSection'
 
 
 const About = () => {
+
   return (
     <AboutSection/>
   )
